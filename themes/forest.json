@@ -2339,7 +2339,7 @@
         "editorSuggestWidget.background": "#45565e",
         "editorSuggestWidget.foreground": "#eed9b0",
         "editorSuggestWidget.highlightForeground": "#bcd093",
-        "editorSuggestWidget.selectedBackground": "#576a72",
+        "editorSuggestWidget.selectedBackground": "#616c72",
         "editorSuggestWidget.border": "#45565e",
         "merge.incomingHeaderBackground": "#7fb08280",
         "merge.incomingContentBackground": "#54695f",
