@@ -11,12 +11,10 @@
   <a href="https://github.com/sainnhe/forest-theme-vscode/blob/master/CHANGELOG.md">Changelog</a>
   <br><br>
 </p>
+ 
+This theme is an enhanced version of [sainnhe/vim-color-forest-night](https://github.com/sainnhe/vim-color-forest-night), it uses a more balanced color palette.
 
-This theme is dedicated to providing a comfortable working environment and precise code highlighting.
-
-**Note:** It's a good idea to use it with [redshift](http://jonls.dk/redshift/) or [f.lux](https://justgetflux.com/).
-
-**Note:** I personally recommend you to disable blur/transparent when using this theme for better experience.
+Although this theme is designed to be pleasant for eyes, I personally recommend you to use it with [redshift](http://jonls.dk/redshift/) or [f.lux](https://justgetflux.com/) for better eye protection.
 
 **Note:** This project is currently in very early stage and anything can be changed.
 
@@ -104,6 +102,10 @@ To hack this theme, clone the repository on github and open the folder using vsc
 [Extension Guides: Color Theme](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
 
 [Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
+
+## Related Projects
+
+See [forest-theme#related-projects](https://github.com/sainnhe/forest-theme#related-projects)
 
 ## License
 
