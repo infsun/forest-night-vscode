@@ -16,8 +16,6 @@ This theme is an enhanced version of [vim-color-forest-night](https://github.com
 
 Although this theme is designed to be pleasant for eyes, I personally recommend you to use it with [redshift](http://jonls.dk/redshift/) or [f.lux](https://justgetflux.com/) for better eye protection.
 
-**Note:** This project is currently in very early stage and anything can be changed.
-
 ## Syntax Highlighting Logic
 
 - **Red:** keyword, conditional, repeat, exception
@@ -102,10 +100,6 @@ To hack this theme, clone the repository on github and open the folder using vsc
 [Extension Guides: Color Theme](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
 
 [Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
-
-## Related Projects
-
-See [forest-theme#related-projects](https://github.com/sainnhe/forest-theme#related-projects)
 
 ## License
 

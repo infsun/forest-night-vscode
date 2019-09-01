@@ -2,6 +2,10 @@
 
 All notable changes to the "forest-theme" extension will be documented in this file.
 
+## 0.0.5
+
+- Remove related projects
+
 ## 0.0.4
 
 - Adjust `editorSuggestWidget.selectedBackground`
