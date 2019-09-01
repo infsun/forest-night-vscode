@@ -5,6 +5,7 @@ All notable changes to the "forest-theme" extension will be documented in this f
 ## 0.0.5
 
 - Remove related projects
+- Adjust suggestion background
 
 ## 0.0.4
 
