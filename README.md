@@ -11,10 +11,6 @@
   <a href="https://github.com/sainnhe/forest-theme-vscode/blob/master/CHANGELOG.md">Changelog</a>
   <br><br>
 </p>
- 
-This theme is an enhanced version of [vim-color-forest-night](https://github.com/sainnhe/vim-color-forest-night), it uses a more balanced color palette.
-
-Although this theme is designed to be pleasant for eyes, I personally recommend you to use it with [redshift](http://jonls.dk/redshift/) or [f.lux](https://justgetflux.com/) for better eye protection.
 
 ## Syntax Highlighting Logic
 
@@ -87,19 +83,9 @@ Although this theme is designed to be pleasant for eyes, I personally recommend 
 - **YAML:** buildin
 - **TOML:** [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
-## Contribution
+## Related Project
 
-This theme is based on [gruvbox-material](https://github.com/sainnhe/gruvbox-material-vscode), and many colors haven't been tested.
-
-And as I mentioned in [gruvbox-material-vscode#contribution](https://github.com/sainnhe/gruvbox-material-vscode#contribution), I can't optimize them because I don't know where I can see them.
-
-Therefore, if you feel that some colors are weird, feel free to open a PR :)
-
-To hack this theme, clone the repository on github and open the folder using vscode, then modify colors in `./themes/forest.json` and press `F5`.
-
-[Extension Guides: Color Theme](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
-
-[Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
+[vim-color-forest-night](https://github.com/sainnhe/vim-color-forest-night)
 
 ## License
 
