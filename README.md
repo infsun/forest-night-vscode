@@ -12,7 +12,7 @@
   <br><br>
 </p>
  
-This theme is an enhanced version of [sainnhe/vim-color-forest-night](https://github.com/sainnhe/vim-color-forest-night), it uses a more balanced color palette.
+This theme is an enhanced version of [vim-color-forest-night](https://github.com/sainnhe/vim-color-forest-night), it uses a more balanced color palette.
 
 Although this theme is designed to be pleasant for eyes, I personally recommend you to use it with [redshift](http://jonls.dk/redshift/) or [f.lux](https://justgetflux.com/) for better eye protection.
 
