@@ -1,0 +1,28 @@
+{
+    "name": "forest-theme",
+    "displayName": "Forest Theme",
+    "description": "Edit Code in the Forest!",
+    "author": "Sainnhe Park (https://github.com/sainnhe)",
+    "publisher": "sainnhe",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "homepage": "https://github.com/sainnhe/forest-theme-vscode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sainnhe/forest-theme-vscode.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/forest.json"
+            }
+        ]
+    }
+}
