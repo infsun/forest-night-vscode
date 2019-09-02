@@ -2,6 +2,10 @@
 
 All notable changes to the "forest-theme" extension will be documented in this file.
 
+## 0.0.11
+
+- Fix wrong aqua and blue
+
 ## 0.0.9
 
 - Use aqua in `variable.other.object.js` and `variable.other.object.ts`

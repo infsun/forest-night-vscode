@@ -554,14 +554,14 @@
         },
         {
             "name": "CSS blue",
-            "scope": "support.type.property-name.css",
+            "scope": "entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css",
             "settings": {
                 "foreground": "#bdd0e5"
             }
         },
         {
             "name": "CSS aqua",
-            "scope": "entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css",
+            "scope": "support.type.property-name.css",
             "settings": {
                 "foreground": "#a2cea5"
             }
@@ -658,10 +658,10 @@
             }
         },
         {
-            "name": "JSX blue",
+            "name": "JSX yellow",
             "scope": "entity.other.attribute-name.js.jsx",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#eccc8f"
             }
         },
         {
@@ -739,6 +739,13 @@
             }
         },
         {
+            "name": "TSX yellow",
+            "scope": ", entity.other.attribute-name.tsx",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
             "name": "TSX green",
             "scope": "keyword.operator.type.annotation, entity.name.function.tsx",
             "settings": {
@@ -747,7 +754,7 @@
         },
         {
             "name": "TSX blue",
-            "scope": "punctuation.definition.template-expression.end.tsx, variable.other.readwrite.alias.tsx, punctuation.definition.template-expression.begin.tsx, variable.parameter.tsx, constant.language.import-export-all.tsx, entity.other.attribute-name.tsx",
+            "scope": "punctuation.definition.template-expression.end.tsx, variable.other.readwrite.alias.tsx, punctuation.definition.template-expression.begin.tsx, variable.parameter.tsx, constant.language.import-export-all.tsx",
             "settings": {
                 "foreground": "#bdd0e5"
             }
@@ -1913,10 +1920,10 @@
             }
         },
         {
-            "name": "Diff blue",
+            "name": "Diff aqua",
             "scope": "meta.diff.range.context, punctuation.definition.range.diff",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1943,10 +1950,10 @@
             }
         },
         {
-            "name": "Git blue",
+            "name": "Git aqua",
             "scope": "keyword.other.definition.ini",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         // }}}
@@ -2081,10 +2088,10 @@
             }
         },
         {
-            "name": "JSON aqua",
+            "name": "JSON yellow",
             "scope": "support.type.property-name.json",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#eccc8f"
             }
         },
         // }}}
@@ -2336,11 +2343,11 @@
         "diffEditor.insertedTextBackground": "#54695f",
         "diffEditor.removedTextBackground": "#70495d",
         "editorWidget.border": "#45565e",
-        "editorSuggestWidget.background": "#3c4c55",
+        "editorSuggestWidget.background": "#45565e",
         "editorSuggestWidget.foreground": "#eed9b0",
         "editorSuggestWidget.highlightForeground": "#bcd093",
         "editorSuggestWidget.selectedBackground": "#616c72",
-        "editorSuggestWidget.border": "#4f6269",
+        "editorSuggestWidget.border": "#45565e",
         "merge.incomingHeaderBackground": "#7fb08280",
         "merge.incomingContentBackground": "#54695f",
         "merge.currentHeaderBackground": "#9aadc380",
