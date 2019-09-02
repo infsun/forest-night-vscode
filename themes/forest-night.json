@@ -636,7 +636,7 @@
         },
         {
             "name": "JavaScript purple",
-            "scope": "variable.language.this.js, storage.type.function.arrow.js, variable.other.object.js",
+            "scope": "variable.language.this.js, storage.type.function.arrow.js",
             "settings": {
                 "foreground": "#e5c6f0"
             }
@@ -703,7 +703,7 @@
         },
         {
             "name": "TypeScript purple",
-            "scope": "keyword.operator.spread.ts, variable.language.this.ts, storage.type.function.arrow.ts, variable.other.object.ts",
+            "scope": "keyword.operator.spread.ts, variable.language.this.ts, storage.type.function.arrow.ts",
             "settings": {
                 "foreground": "#e5c6f0"
             }
@@ -754,7 +754,7 @@
         },
         {
             "name": "TSX purple",
-            "scope": "keyword.operator.spread.tsx, variable.language.this.tsx, storage.type.function.arrow.tsx, variable.other.object.tsx",
+            "scope": "keyword.operator.spread.tsx, variable.language.this.tsx, storage.type.function.arrow.tsx",
             "settings": {
                 "foreground": "#e5c6f0"
             }
