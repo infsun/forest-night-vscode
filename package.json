@@ -1,6 +1,6 @@
 {
     "name": "forest-theme",
-    "displayName": "Forest Theme",
+    "displayName": "Forest Night",
     "description": "Comfortable & Pleasant Theme for VS Code",
     "author": "Sainnhe Park (https://github.com/sainnhe)",
     "publisher": "sainnhe",
@@ -12,17 +12,17 @@
     "categories": [
         "Themes"
     ],
-    "homepage": "https://github.com/sainnhe/forest-theme-vscode",
+    "homepage": "https://github.com/sainnhe/forest-night-vscode",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sainnhe/forest-theme-vscode.git"
+        "url": "https://github.com/sainnhe/forest-night-vscode.git"
     },
     "contributes": {
         "themes": [
             {
-                "label": "Forest",
+                "label": "Forest Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/forest.json"
+                "path": "./themes/forest-night.json"
             }
         ]
     }

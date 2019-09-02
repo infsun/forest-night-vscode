@@ -1,16 +1,18 @@
 <h1 align="center">
-𝐅𝐨𝐫𝐞𝐬𝐭
+𝐅𝐨𝐫𝐞𝐬𝐭 𝐍𝐢𝐠𝐡𝐭
 </h1>
 
-![forest](https://user-images.githubusercontent.com/37491630/64073728-3e5b3600-cc91-11e9-80ea-b95d65e43224.png)
+![forest-night](https://user-images.githubusercontent.com/37491630/64091494-e9c2c400-cd3f-11e9-91ec-e7c2d4e993ea.png)
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=sainnhe.forest-theme">Marketplace</a> |
-  <a href="https://github.com/sainnhe/forest-theme-vscode">Repository</a> |
-  <a href="https://github.com/sainnhe/forest-theme-vscode/issues">Issues</a> |
-  <a href="https://github.com/sainnhe/forest-theme-vscode/blob/master/CHANGELOG.md">Changelog</a>
+  <a href="https://github.com/sainnhe/forest-night-vscode">Repository</a> |
+  <a href="https://github.com/sainnhe/forest-night-vscode/issues">Issues</a> |
+  <a href="https://github.com/sainnhe/forest-night-vscode/blob/master/CHANGELOG.md">Changelog</a>
   <br><br>
 </p>
+
+This theme is a port of [vim-color-forest-night](https://github.com/sainnhe/vim-color-forest-night) for Visual Studio Code.
 
 ## Syntax Highlighting Logic
 
@@ -82,10 +84,6 @@
 - **JSON:** buildin
 - **YAML:** buildin
 - **TOML:** [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
-
-## Related Project
-
-[vim-color-forest-night](https://github.com/sainnhe/vim-color-forest-night)
 
 ## License
 
