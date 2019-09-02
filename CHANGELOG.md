@@ -2,6 +2,10 @@
 
 All notable changes to the "forest-theme" extension will be documented in this file.
 
+## 0.0.6
+
+- Adjust red and yellow
+
 ## 0.0.5
 
 - Adjust suggestion background
