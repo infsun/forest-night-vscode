@@ -20,8 +20,8 @@ This theme is a port of [vim-color-forest-night](https://github.com/sainnhe/vim-
 - **Orange:** storage, operator, modifier
 - **Yellow:** type, class name, placeholder
 - **Green:** func call, method, string
-- **Aqua:** member, property, constant, func def(if possible)
-- **Blue:** identifier
+- **Aqua:** identifier
+- **Blue:** member, property, constant, func def(if possible)
 - **Purple:** preproc, macro, enum, special identifier, number, boolean(if possible)
 
 **Color Reference:** [colors.yml](https://github.com/sainnhe/forest-theme-vscode/blob/master/colors.yml)

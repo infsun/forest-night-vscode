@@ -2,6 +2,10 @@
 
 All notable changes to the "forest-theme" extension will be documented in this file.
 
+## 0.0.8
+
+- Swap blue and aqua
+
 ## 0.0.7
 
 - Adjust extension information

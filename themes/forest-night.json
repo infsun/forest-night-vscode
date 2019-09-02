@@ -90,7 +90,7 @@
             "name": "Identifier",
             "scope": "variable, support.variable, support.class, support.constant, meta.definition.variable entity.name.function",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -162,28 +162,28 @@
             "name": "Class variable",
             "scope": "variable.object.property, meta.field.declaration",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
             "name": "Property",
             "scope": "support.variable.property, variable.other.property, meta.object-literal.key, variable.other.object.property.js",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
             "name": "Member",
             "scope": "variable.other.enummember",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
             "name": "Special constant",
             "scope": "constant.language.null, constant.language.undefined, constant.language.nan, constant.language.infinity",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -228,7 +228,7 @@
             "name": "Markdown heading2",
             "scope": "heading.2.markdown, markup.heading.setext.2.markdown",
             "settings": {
-                "foreground": "#bdd0e5",
+                "foreground": "#a2cea5",
                 "fontStyle": "bold"
             }
         },
@@ -244,7 +244,7 @@
             "name": "Markdown heading4",
             "scope": "heading.4.markdown",
             "settings": {
-                "foreground": "#a2cea5",
+                "foreground": "#bdd0e5",
                 "fontStyle": "bold"
             }
         },
@@ -336,14 +336,14 @@
             "name": "Markdown code delimiter",
             "scope": "punctuation.definition.markdown, punctuation.definition.raw.markdown",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
             "name": "Markdown code type",
             "scope": "fenced_code.block.language",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -386,10 +386,10 @@
             }
         },
         {
-            "name": "reStructuredText aqua",
+            "name": "reStructuredText blue",
             "scope": "entity.name.tag.restructuredtext, punctuation.definition.link.restructuredtext, punctuation.definition.raw.restructuredtext, punctuation.section.raw.restructuredtext",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -451,17 +451,17 @@
             }
         },
         {
-            "name": "LaTex aqua",
+            "name": "LaTex blue",
             "scope": "support.class.latex",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "LaTex blue",
+            "name": "LaTex aqua",
             "scope": "meta.group.braces.tex",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -481,10 +481,10 @@
             }
         },
         {
-            "name": "Html aqua",
+            "name": "Html blue",
             "scope": "punctuation.separator.key-value.html, meta.internalsubset.xml",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -553,17 +553,17 @@
             }
         },
         {
-            "name": "CSS aqua",
+            "name": "CSS blue",
             "scope": "support.type.property-name.css",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "CSS blue",
+            "name": "CSS aqua",
             "scope": "entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -628,10 +628,10 @@
             }
         },
         {
-            "name": "JavaScript aqua",
+            "name": "JavaScript blue",
             "scope": "constant.language.infinity.js",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -658,10 +658,10 @@
             }
         },
         {
-            "name": "JSX aqua",
+            "name": "JSX blue",
             "scope": "entity.other.attribute-name.js.jsx",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -695,10 +695,10 @@
             }
         },
         {
-            "name": "TypeScript aqua",
+            "name": "TypeScript blue",
             "scope": "punctuation.definition.template-expression.end.ts, punctuation.definition.template-expression.begin.ts, variable.parameter.ts, variable.other.readwrite.alias.ts",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -746,10 +746,10 @@
             }
         },
         {
-            "name": "TSX aqua",
+            "name": "TSX blue",
             "scope": "punctuation.definition.template-expression.end.tsx, variable.other.readwrite.alias.tsx, punctuation.definition.template-expression.begin.tsx, variable.parameter.tsx, constant.language.import-export-all.tsx, entity.other.attribute-name.tsx",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -783,17 +783,17 @@
             }
         },
         {
-            "name": "CoffeeScript aqua",
+            "name": "CoffeeScript blue",
             "scope": "variable.parameter.function.coffee, punctuation.section.embedded.coffee, meta.arguments.coffee, constant.character.character-class.regexp",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "CoffeeScript blue",
+            "name": "CoffeeScript aqua",
             "scope": "source.coffee.embedded.source",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -822,10 +822,10 @@
         // }}}
         // Dart{{{
         {
-            "name": "Dart aqua",
+            "name": "Dart blue",
             "scope": "constant.language.dart",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -852,17 +852,17 @@
             }
         },
         {
-            "name": "Python aqua",
+            "name": "Python blue",
             "scope": "storage.type.imaginary.number.python, support.function.magic.python, entity.name.function.python, constant.character.format.placeholder.other.python, constant.language.python",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Python blue",
+            "name": "Python aqua",
             "scope": "meta.function-call.arguments.python",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -896,10 +896,10 @@
             }
         },
         {
-            "name": "Java aqua",
+            "name": "Java blue",
             "scope": "variable.other.object.property.java, storage.modifier.import.java, storage.modifier.package.java, constant.other.enum.java",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -919,10 +919,10 @@
             }
         },
         {
-            "name": "Kotlin aqua",
+            "name": "Kotlin blue",
             "scope": "punctuation.section.block.begin.kotlin, punctuation.section.block.end.kotlin, punctuation.definition.keyword.kotlin, constant.language.kotlin, entity.name.function.constructor, entity.name.package.kotlin",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -933,10 +933,10 @@
             }
         },
         {
-            "name": "Kotlin blue",
+            "name": "Kotlin aqua",
             "scope": "entity.string.template.element.kotlin",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -998,17 +998,17 @@
             }
         },
         {
-            "name": "C aqua",
+            "name": "C blue",
             "scope": "constant.character.escape.c, constant.language.c, variable.other.member.c, entity.name.type.namespace.cpp, constant.language.nullptr.cpp, entity.name.namespace.cpp",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "C blue",
+            "name": "C aqua",
             "scope": "meta.function-call.c, meta.conditional.switch.c, meta.bracket.square.access.c",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1049,17 +1049,17 @@
             }
         },
         {
-            "name": "ObjectiveC aqua",
+            "name": "ObjectiveC blue",
             "scope": "entity.name.tag.pragma-mark.objc, constant.language.objc, keyword.other.property.attribute.objc, variable.other.member.objc",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "ObjectiveC blue",
+            "name": "ObjectiveC aqua",
             "scope": "meta.parens.block.objc",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1093,17 +1093,17 @@
             }
         },
         {
-            "name": "C# aqua",
+            "name": "C# blue",
             "scope": "variable.other.object.property.cs, entity.name.variable.property.cs, entity.name.type.namespace.cs, entity.name.variable.enum-member.cs, meta.preprocessor.cs",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "C# blue",
+            "name": "C# aqua",
             "scope": "entity.name.variable.local.cs, entity.name.variable.parameter.cs, entity.name.variable.field.cs",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1130,10 +1130,10 @@
             }
         },
         {
-            "name": "Go aqua",
+            "name": "Go blue",
             "scope": "entity.name.package.go, entity.alias.import.go, constant.language.go, constant.character.escape.go, entity.name.function.go",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1174,10 +1174,10 @@
             }
         },
         {
-            "name": "Rust aqua",
+            "name": "Rust blue",
             "scope": "support.constant.core.rust, entity.name.type.mod.rust",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1211,17 +1211,17 @@
             }
         },
         {
-            "name": "Swift aqua",
+            "name": "Swift blue",
             "scope": "punctuation.section.embedded.end.swift, punctuation.section.embedded.begin.swift, support.variable.swift, constant.language.nil.swift, entity.name.function.swift, variable.other.swift",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Swift blue",
+            "name": "Swift aqua",
             "scope": "meta.function-call.swift, meta.embedded.line.swift",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         // }}}
@@ -1241,17 +1241,17 @@
             }
         },
         {
-            "name": "PHP aqua",
+            "name": "PHP blue",
             "scope": "constant.language.php, constant.other.php, entity.name.type.namespace.php",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "PHP blue",
+            "name": "PHP aqua",
             "scope": "punctuation.definition.variable.php",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1264,26 +1264,26 @@
         // }}}
         // SQL{{{
         {
-            "name": "PHP aqua",
+            "name": "PHP blue",
             "scope": "constant.other.table-name.sql",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "SQL blue",
+            "name": "SQL aqua",
             "scope": "constant.other.database-name.sql",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         // }}}
         // GraphQL{{{
         {
-            "name": "GraphQL aqua",
+            "name": "GraphQL blue",
             "scope": "variable.parameter.graphql",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1303,10 +1303,10 @@
             }
         },
         {
-            "name": "Ruby aqua",
+            "name": "Ruby blue",
             "scope": "constant.other.symbol.ruby, constant.language.ruby, punctuation.section.embedded.begin.ruby, punctuation.section.embedded.end.ruby, constant.other.symbol.hashkey.ruby, variable.other.readwrite.instance.ruby, variable.other.constant.ruby",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1326,10 +1326,10 @@
             }
         },
         {
-            "name": "Haskell aqua",
+            "name": "Haskell blue",
             "scope": "constant.other.haskell",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1356,10 +1356,10 @@
             }
         },
         {
-            "name": "Lua aqua",
+            "name": "Lua blue",
             "scope": "constant.language.lua, variable.other.table.property.lua, entity.name.function-table.lua",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1379,17 +1379,17 @@
             }
         },
         {
-            "name": "Perl aqua",
+            "name": "Perl blue",
             "scope": "constant.other.key.perl, constant.other.bareword.perl",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Perl blue",
+            "name": "Perl aqua",
             "scope": "punctuation.definition.variable.perl",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         // }}}
@@ -1402,17 +1402,17 @@
             }
         },
         {
-            "name": "Scala blue",
+            "name": "Scala aqua",
             "scope": "punctuation.definition.template-expression.scala",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
-            "name": "Scala aqua",
+            "name": "Scala blue",
             "scope": "constant.language.scala, punctuation.definition.template-expression.begin.scala, punctuation.definition.template-expression.end.scala, entity.name.import.scala",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1432,17 +1432,17 @@
         // }}}
         // Elixir{{{
         {
-            "name": "Elixir aqua",
+            "name": "Elixir blue",
             "scope": "constant.language.elixir, punctuation.section.embedded.elixir",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Elixir blue",
+            "name": "Elixir aqua",
             "scope": "constant.other.symbol.elixir, source.elixir.embedded.source, punctuation.definition.variable.elixir",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1462,10 +1462,10 @@
             }
         },
         {
-            "name": "Clojure aqua",
+            "name": "Clojure blue",
             "scope": "constant.language.nil.clojure, constant.keyword.clojure",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1483,10 +1483,10 @@
             }
         },
         {
-            "name": "Clojure blue",
+            "name": "Clojure aqua",
             "scope": "entity.global.clojure",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         // }}}
@@ -1499,10 +1499,10 @@
             }
         },
         {
-            "name": "Julia aqua",
+            "name": "Julia blue",
             "scope": "constant.language.julia, constant.other.symbol.julia",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1543,17 +1543,17 @@
             }
         },
         {
-            "name": "Elm aqua",
+            "name": "Elm blue",
             "scope": "entity.name.record.field.accessor.elm",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Elm blue",
+            "name": "Elm aqua",
             "scope": "meta.value.elm, entity.name.record.field.elm, record.name.elm",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1573,10 +1573,10 @@
             }
         },
         {
-            "name": "Erlang aqua",
+            "name": "Erlang blue",
             "scope": "constant.other.symbol.unquoted.erlang",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1603,10 +1603,10 @@
             }
         },
         {
-            "name": "R aqua",
+            "name": "R blue",
             "scope": "constant.language.r",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1670,17 +1670,17 @@
             }
         },
         {
-            "name": "Groovy aqua",
+            "name": "Groovy blue",
             "scope": "constant.language.groovy",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Groovy blue",
+            "name": "Groovy aqua",
             "scope": "meta.definition.variable.name.groovy, meta.method-call.groovy, meta.definition.variable.groovy",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1707,17 +1707,17 @@
             }
         },
         {
-            "name": "Fortran blue",
+            "name": "Fortran aqua",
             "scope": "meta.parameter.fortran",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
-            "name": "Fortran aqua",
+            "name": "Fortran blue",
             "scope": "entity.name.program.fortran, keyword.other.none.fortran",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1737,17 +1737,17 @@
             }
         },
         {
-            "name": "Lisp aqua",
+            "name": "Lisp blue",
             "scope": "keyword.constant.lisp, punctuation.definition.constant.lisp",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Lisp blue",
+            "name": "Lisp aqua",
             "scope": "entity.name.variable.lisp, variable.other.global.lisp, punctuation.definition.variable.lisp",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1788,17 +1788,17 @@
             }
         },
         {
-            "name": "Shell aqua",
+            "name": "Shell blue",
             "scope": "entity.name.function.shell, string.unquoted.argument.shell, punctuation.definition.evaluation.parens.begin.shell, punctuation.definition.evaluation.parens.end.shell",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Shell blue",
+            "name": "Shell aqua",
             "scope": "punctuation.definition.variable.shell, meta.argument.shell, punctuation.section.bracket.curly.variable.begin.shell, punctuation.section.bracket.curly.variable.end.shell",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1832,17 +1832,17 @@
             }
         },
         {
-            "name": "Fish aqua",
+            "name": "Fish blue",
             "scope": "support.function.script.fish",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "Fish blue",
+            "name": "Fish aqua",
             "scope": "punctuation.definition.variable.fish",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1862,17 +1862,17 @@
             }
         },
         {
-            "name": "PowerShell aqua",
+            "name": "PowerShell blue",
             "scope": "variable.other.member.powershell",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "PowerShell blue",
+            "name": "PowerShell aqua",
             "scope": "punctuation.definition.variable.powershell",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -1913,10 +1913,10 @@
             }
         },
         {
-            "name": "Diff aqua",
+            "name": "Diff blue",
             "scope": "meta.diff.range.context, punctuation.definition.range.diff",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1943,10 +1943,10 @@
             }
         },
         {
-            "name": "Git aqua",
+            "name": "Git blue",
             "scope": "keyword.other.definition.ini",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         // }}}
@@ -1959,10 +1959,10 @@
             }
         },
         {
-            "name": "Make aqua",
+            "name": "Make blue",
             "scope": "meta.scope.prerequisites.makefile",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -1975,10 +1975,10 @@
         // }}}
         // {{{CMake
         {
-            "name": "CMake aqua",
+            "name": "CMake blue",
             "scope": "entity.source.cmake",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -2005,10 +2005,10 @@
             }
         },
         {
-            "name": "Dockerfile aqua",
+            "name": "Dockerfile blue",
             "scope": "constant.character.escape.dockerfile",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -2042,10 +2042,10 @@
             }
         },
         {
-            "name": "VimL aqua",
+            "name": "VimL blue",
             "scope": "support.function.viml, constant.character.map.key.viml, constant.character.map.viml",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
@@ -2058,10 +2058,10 @@
         // }}}
         // {{{Tmux
         {
-            "name": "Tmux aqua",
+            "name": "Tmux blue",
             "scope": "constant.language.tmux",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         // }}}
@@ -2074,17 +2074,17 @@
             }
         },
         {
-            "name": "JSON aqua",
+            "name": "JSON blue",
             "scope": "constant.language.json",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "JSON blue",
+            "name": "JSON aqua",
             "scope": "support.type.property-name.json",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         // }}}
@@ -2111,17 +2111,17 @@
             }
         },
         {
-            "name": "YAML aqua",
+            "name": "YAML blue",
             "scope": "constant.other.timestamp.yaml, variable.other.alias.yaml",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "YAML blue",
+            "name": "YAML aqua",
             "scope": "entity.name.tag.yaml",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
@@ -2148,17 +2148,17 @@
             }
         },
         {
-            "name": "TOML aqua",
+            "name": "TOML blue",
             "scope": "constant.other.datetime-with-timezone.toml, constant.other.date.toml, constant.other.datetime.toml",
             "settings": {
-                "foreground": "#a2cea5"
+                "foreground": "#bdd0e5"
             }
         },
         {
-            "name": "TOML blue",
+            "name": "TOML aqua",
             "scope": "keyword.key.toml",
             "settings": {
-                "foreground": "#bdd0e5"
+                "foreground": "#a2cea5"
             }
         },
         {
