@@ -85,6 +85,10 @@ This theme is a port of [vim-color-forest-night](https://github.com/sainnhe/vim-
 - **YAML:** buildin
 - **TOML:** [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
+## Related Projects
+
+See [RELATED_PROJECTS.md](https://github.com/sainnhe/vim-color-forest-night/blob/master/RELATED_PROJECTS.md)
+
 ## License
 
 [MIT](https://github.com/sainnhe/forest-theme-vscode/blob/master/LICENSE), [Anti-996](https://github.com/sainnhe/forest-theme-vscode/blob/master/Anti-996-LICENSE)
