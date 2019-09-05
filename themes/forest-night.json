@@ -25,14 +25,14 @@
         },
         {
             "name": "Storage",
-            "scope": "storage, modifier, keyword.var",
+            "scope": "storage, modifier, keyword.var, entity.name.tag",
             "settings": {
                 "foreground": "#ecaf93"
             }
         },
         {
             "name": "Class",
-            "scope": "entity.name.type.class, support.class, entity.other.inherited-class",
+            "scope": "entity.name.type.class, support.class, entity.other.inherited-class, entity.other.attribute-name",
             "settings": {
                 "foreground": "#eccc8f"
             }
