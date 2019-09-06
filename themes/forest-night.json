@@ -815,6 +815,59 @@
             }
         },
         // }}}
+        // Go{{{
+        {
+            "name": "Go orange",
+            "scope": "keyword.var.go, keyword.type.go, keyword.function.go",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "Go yellow",
+            "scope": "storage.type.numeric.go, storage.type.boolean.go, storage.type.string.go, storage.type.uintptr.go, storage.type.byte.go, storage.type.rune.go, constant.other.placeholder.go",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Go aqua",
+            "scope": "entity.name.package.go",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        // }}}
+        // Rust{{{
+        {
+            "name": "Rust red",
+            "scope": "storage.type.rust",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "Rust yellow",
+            "scope": "storage.type.core.rust",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Rust aqua",
+            "scope": "entity.name.type.mod.rust",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Rust purple",
+            "scope": "meta.attribute.rust, variable.language.rust, variable.language.self.rust",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        // }}}
     ],
     // UI{{{
     "colors": {
