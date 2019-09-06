@@ -466,6 +466,302 @@
             }
         },
         // }}}
+        // CSS{{{
+        {
+            "name": "CSS red",
+            "scope": "meta.selector.css, entity.name.tag.css, punctuation.definition.keyword.css, entity.other.keyframe-offset.css",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "CSS orange",
+            "scope": "entity.other.attribute-name.class.css",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "CSS green",
+            "scope": "meta.property-value.css, support.constant.property-value.css",
+            "settings": {
+                "foreground": "#b9ce8e"
+            }
+        },
+        {
+            "name": "CSS aqua",
+            "scope": "support.type.property-name.css, meta.property-list.css",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "CSS blue",
+            "scope": "punctuation.definition.entity.css",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // SASS/SCSS{{{
+        {
+            "name": "SASS yellow",
+            "scope": "support.function.name.sass.library",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "SASS green",
+            "scope": "keyword.control.unit.css.sass",
+            "settings": {
+                "foreground": "#b9ce8e",
+                "fontStyle": "regular"
+            }
+        },
+        {
+            "name": "SASS blue",
+            "scope": "keyword.control.at-rule.css.sass",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // JavaScript/JSX{{{
+        {
+            "name": "JavaScript grey",
+            "scope": "punctuation.definition.tag.begin.js.jsx, punctuation.definition.tag.end.js.jsx",
+            "settings": {
+                "foreground": "#7f8f9f"
+            }
+        },
+        {
+            "name": "JavaScript blue",
+            "scope": "storage.type.function.arrow.js",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // TypeScript/TSX{{{
+        {
+            "name": "TypeScript grey",
+            "scope": "punctuation.definition.tag.begin.tsx, punctuation.definition.tag.end.tsx",
+            "settings": {
+                "foreground": "#7f8f9f"
+            }
+        },
+        {
+            "name": "TypeScript yellow",
+            "scope": "punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts, punctuation.definition.template-expression.begin.tsx, punctuation.definition.template-expression.end.tsx",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "TypeScript blue",
+            "scope": "storage.type.function.arrow.ts, punctuation.decorator.ts, storage.type.function.arrow.tsx, punctuation.decorator.tsx",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // CoffeeScript{{{
+        {
+            "name": "CoffeeScript orange",
+            "scope": "entity.name.function.coffee",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "CoffeeScript yellow",
+            "scope": "punctuation.section.embedded.coffee",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "CoffeeScript blue",
+            "scope": "storage.type.function.coffee",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // PureScript{{{
+        {
+            "name": "PureScript yellow",
+            "scope": "support.other.module.purescript, entity.name.tag.purescript",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "PureScript blue",
+            "scope": "keyword.other.arrow.purescript",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // Dart{{{
+        {
+            "name": "Dart purple",
+            "scope": "variable.language.dart",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        // }}}
+        // Python{{{
+        {
+            "name": "Python orange",
+            "scope": "storage.type.function.python",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "Python aqua",
+            "scope": "entity.name.function.python, support.function.magic.python",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Python blue",
+            "scope": "punctuation.definition.decorator.python",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "Python purple",
+            "scope": "variable.language.special.self.python, variable.parameter.function.language.special.self.python",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        // }}}
+        // Java{{{
+        {
+            "name": "Java white",
+            "scope": "keyword.control.ternary.java",
+            "settings": {
+                "foreground": "#f6e3bc"
+            }
+        },
+        {
+            "name": "Java red",
+            "scope": "storage.modifier.java",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "Java yellow",
+            "scope": "storage.type.generic.java",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Java aqua",
+            "scope": "storage.modifier.import.java, variable.other.object.property.java",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Java blue",
+            "scope": "storage.type.function.arrow.java",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "Java purple",
+            "scope": "punctuation.definition.annotation.java, storage.type.annotation.java",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        // }}}
+        // Kotlin{{{
+        {
+            "name": "Kotlin red",
+            "scope": "storage.modifier.kotlin",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "Kotlin yellow",
+            "scope": "entity.name.class.kotlin",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Kotlin aqua",
+            "scope": "entity.name.package.kotlin",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Kotlin purple",
+            "scope": "variable.language.kotlin, storage.type.annotation.kotlin",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        // }}}
+        // C/C++{{{
+        {
+            "name": "C white",
+            "scope": "storage.modifier.array.bracket.square.c, storage.modifier.array.bracket.square.cpp, meta.body.function.definition.cpp",
+            "settings": {
+                "foreground": "#f6e3bc"
+            }
+        },
+        {
+            "name": "C grey",
+            "scope": "punctuation.separator.namespace.access.cpp, punctuation.separator.scope-resolution.cpp, punctuation.separator.scope-resolution.function.definition.cpp",
+            "settings": {
+                "foreground": "#7f8f9f"
+            }
+        },
+        {
+            "name": "C orange",
+            "scope": "keyword.control.case.c, keyword.control.case.cpp",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "C yellow",
+            "scope": "constant.other.placeholder.c, constant.other.placeholder.cpp, entity.name.namespace.cpp, entity.name.scope-resolution.cpp, entity.name.scope-resolution.parameter.cpp",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "C aqua",
+            "scope": "punctuation.definition.string.end.c, punctuation.definition.string.begin.c, string.quoted.other.lt-gt.include.c, constant.character.escape.c, variable.other.member.c, punctuation.definition.string.end.cpp, punctuation.definition.string.begin.cpp, string.quoted.other.lt-gt.include.cpp, constant.character.escape.cpp, variable.other.member.cpp",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "C blue",
+            "scope": "punctuation.separator.pointer-access.c, punctuation.separator.pointer-access.cpp, storage.modifier.pointer.cpp",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
     ],
     // UI{{{
     "colors": {
