@@ -95,7 +95,7 @@
         },
         {
             "name": "Property",
-            "scope": "variable.object.property, support.variable.property, variable.other.property, variable.other.object.property.js",
+            "scope": "variable.object.property, support.variable.property, variable.other.property, variable.other.object.property",
             "settings": {
                 "foreground": "#a2cea5"
             }
@@ -116,7 +116,7 @@
         },
         {
             "name": "Special identifier",
-            "scope": "variable.language.this, variable.language.super",
+            "scope": "variable.language.this, variable.language.super, keyword.other.this",
             "settings": {
                 "foreground": "#e5c6f0"
             }
@@ -759,6 +759,59 @@
             "scope": "punctuation.separator.pointer-access.c, punctuation.separator.pointer-access.cpp, storage.modifier.pointer.cpp",
             "settings": {
                 "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // ObjectiveC{{{
+        {
+            "name": "ObjectiveC white",
+            "scope": "storage.modifier.array.bracket.square.objc",
+            "settings": {
+                "foreground": "#f6e3bc"
+            }
+        },
+        {
+            "name": "ObjectiveC red",
+            "scope": "punctuation.definition.keyword.objc",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "ObjectiveC orange",
+            "scope": "keyword.control.case.objc, punctuation.definition.storage.type.objc, keyword.other.property.attribute.objc",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "ObjectiveC aqua",
+            "scope": "string.quoted.other.lt-gt.include.objc, punctuation.definition.string.end.objc, punctuation.definition.string.begin.objc, meta.protocol-list.objc, variable.other.member.objc",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        // }}}
+        // C#{{{
+        {
+            "name": "C# red",
+            "scope": "punctuation.tilde.cs, punctuation.separator.hash.cs",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "C# orange",
+            "scope": "keyword.control.case.cs, keyword.control.flow.yield.cs, keyword.other.var.cs",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "C# yellow",
+            "scope": "keyword.type.cs, storage.type.cs, punctuation.definition.interpolation.begin.cs, punctuation.definition.interpolation.end.cs",
+            "settings": {
+                "foreground": "#eccc8f"
             }
         },
         // }}}
