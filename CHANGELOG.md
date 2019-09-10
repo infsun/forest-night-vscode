@@ -2,6 +2,10 @@
 
 All notable changes to the "forest-theme" extension will be documented in this file.
 
+## 0.1.1
+
+- Update screenshot
+
 ## 0.1.0
 
 - Refactor

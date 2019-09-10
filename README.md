@@ -2,7 +2,7 @@
 𝐅𝐨𝐫𝐞𝐬𝐭 𝐍𝐢𝐠𝐡𝐭
 </h1>
 
-![forest-night](https://user-images.githubusercontent.com/37491630/64092807-ba16ba80-cd45-11e9-85da-e92b8f1b2d1e.png)
+![forest-night](https://user-images.githubusercontent.com/37491630/64580901-9839bb00-d377-11e9-98e4-5fad7900a390.png)
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=sainnhe.forest-theme">Marketplace</a> |
