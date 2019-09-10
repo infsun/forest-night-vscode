@@ -868,6 +868,252 @@
             }
         },
         // }}}
+        // PHP{{{
+        {
+            "name": "PHP purple",
+            "scope": "punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php, constant.other.php",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        {
+            "name": "PHP red",
+            "scope": "support.function.construct.output.php",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "PHP yellow",
+            "scope": "punctuation.definition.variable.php, storage.type.php",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        // }}}
+        // Ruby{{{
+        {
+            "name": "Ruby yellow",
+            "scope": "punctuation.section.embedded.begin.ruby, punctuation.section.embedded.end.ruby",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Ruby orange",
+            "scope": "support.function.core.ruby",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "Ruby blue",
+            "scope": "punctuation.separator.key-value, punctuation.definition.variable.ruby",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "Ruby aqua",
+            "scope": "variable.other.readwrite.class.ruby, variable.other.readwrite.instance.ruby, variable.other.constant.ruby",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        // }}}
+        // Haskell{{{
+        {
+            "name": "Haskell aqua",
+            "scope": "constant.other.haskell",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Haskell yellow",
+            "scope": "storage.type.haskell",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Haskell blue",
+            "scope": "keyword.other.double-colon.haskell, keyword.other.arrow.haskell",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "Haskell orange",
+            "scope": "keyword.other.haskell",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        // }}}
+        // Lua{{{
+        {
+            "name": "Lua yellow",
+            "scope": "support.function.library.lua",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Lua aqua",
+            "scope": "variable.other.lua",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Lua purple",
+            "scope": "variable.language.self.lua",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        // }}}
+        // Perl{{{
+        {
+            "name": "Perl yellow",
+            "scope": "punctuation.definition.variable.perl",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        // }}}
+        // Scala{{{
+        {
+            "name": "Scala orange",
+            "scope": "keyword.declaration.stable.scala, keyword.declaration.volatile.scala",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "Scala green",
+            "scope": "punctuation.definition.character.end.scala, punctuation.definition.character.begin.scala",
+            "settings": {
+                "foreground": "#b9ce8e"
+            }
+        },
+        {
+            "name": "Scala yellow",
+            "scope": "entity.name.class, punctuation.definition.template-expression.begin.scala, punctuation.definition.template-expression.end.scala, storage.type.scala",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Scala aqua",
+            "scope": "entity.name.import.scala",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Scala blue",
+            "scope": "keyword.other.arrow.scala",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // Elixir{{{
+        {
+            "name": "Elixir aqua",
+            "scope": "constant.other.symbol.elixir, variable.other.constant.elixir",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        // }}}
+        // Clojure{{{
+        {
+            "name": "Clojure red",
+            "scope": "storage.control.clojure",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "Clojure orange",
+            "scope": "constant.keyword.clojure",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        // }}}
+        // Julia{{{
+        {
+            "name": "Julia aqua",
+            "scope": "support.function.macro.julia, constant.other.symbol.julia",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Julia orange",
+            "scope": "keyword.other.julia",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        // }}}
+        // Elm{{{
+        {
+            "name": "Elm purple",
+            "scope": "constant.type-constructor.elm",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        {
+            "name": "Elm blue",
+            "scope": "keyword.other.period.elm, keyword.other.colon.elm",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "Elm aqua",
+            "scope": "entity.name.record.field.accessor.elm, entity.name.record.field.elm",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Elm yellow",
+            "scope": "storage.type.elm",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Elm orange",
+            "scope": "keyword.type.elm, meta.declaration.module.elm",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        // }}}
+        // Erlang{{{
+        {
+            "name": "Erlang green",
+            "scope": "constant.other.symbol.quoted.single.erlang, punctuation.definition.symbol.end.erlang, punctuation.definition.symbol.begin.erlang",
+            "settings": {
+                "foreground": "#b9ce8e"
+            }
+        },
+        {
+            "name": "Erlang blue",
+            "scope": "punctuation.section.directive.begin.erlang, punctuation.separator.clause-head-body.erlang",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
     ],
     // UI{{{
     "colors": {

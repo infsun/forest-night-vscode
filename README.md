@@ -17,12 +17,12 @@ This theme is a port of [vim-color-forest-night](https://github.com/sainnhe/vim-
 ## Syntax Highlighting Logic
 
 - **Red:** keyword, conditional, repeat, exception
-- **Orange:** storage, operator, modifier
+- **Orange:** storage, modifier
 - **Yellow:** type, class name, placeholder
 - **Green:** func call, method, string
-- **Aqua:** identifier
-- **Blue:** member, property, constant, func def(if possible)
-- **Purple:** preproc, macro, enum, special identifier, number, boolean(if possible)
+- **Aqua:** constant, property, macro
+- **Blue:** operator
+- **Purple:** special identifier, number, boolean
 
 **Color Reference:** [colors.yml](https://github.com/sainnhe/forest-theme-vscode/blob/master/colors.yml)
 
@@ -55,7 +55,7 @@ This theme is a port of [vim-color-forest-night](https://github.com/sainnhe/vim-
 - **PHP:** buildin
 - **Ruby:** [Ruby Language Colorization](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - **Haskell:** [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell)
-- **Lua:** buildin, [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus)
+- **Lua:** buildin
 - **Perl:** buildin
 - **Scala:** [Scala Syntax (official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
 - **Elixir:** [vscode-elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
@@ -71,8 +71,6 @@ This theme is a port of [vim-color-forest-night](https://github.com/sainnhe/vim-
 - **Makefile:** buildin
 - **CMake:** [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - **Dockerfile:** buildin, [vscode-docker-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.vscode-docker-syntax), [Better Dockerfile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
-- **VimL:** [vscode-viml-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.viml)
-- **Tmux:** [tmux](https://marketplace.visualstudio.com/items?itemName=malmaud.tmux)
 - **JSON:** buildin
 - **YAML:** buildin
 - **TOML:** [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
