@@ -2,6 +2,10 @@
 
 All notable changes to the "forest-theme" extension will be documented in this file.
 
+## 0.1.0
+
+- Refactor
+
 ## 0.0.12
 
 - Adjust color palette
