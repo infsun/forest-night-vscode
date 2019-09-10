@@ -1114,6 +1114,239 @@
             }
         },
         // }}}
+        // Shell{{{
+        {
+            "name": "Shell orange",
+            "scope": "support.function.builtin.shell, entity.name.command.shell",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "Shell aqua",
+            "scope": "variable.other.normal.shell, punctuation.definition.variable.shell",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        {
+            "name": "Shell white",
+            "scope": "meta.scope.group.shell",
+            "settings": {
+                "foreground": "#f6e3bc"
+            }
+        },
+        {
+            "name": "Shell yellow",
+            "scope": "constant.other.option.shell, constant.other.option.dash.shell",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        // }}}
+        // PowerShell{{{
+        {
+            "name": "PowerShell orange",
+            "scope": "support.function.powershell",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "PowerShell yellow",
+            "scope": "storage.type.powershell",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "PowerShell blue",
+            "scope": "punctuation.definition.variable.powershell",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "PowerShell aqua",
+            "scope": "variable.other.member.powershell",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        // }}}
+        // Diff{{{
+        {
+            "name": "Diff grey",
+            "scope": "punctuation.definition.separator.diff",
+            "settings": {
+                "foreground": "#7f8f9f"
+            }
+        },
+        {
+            "name": "Diff red",
+            "scope": "markup.deleted.diff, punctuation.definition.deleted.diff",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "Diff yellow",
+            "scope": "markup.changed.diff, punctuation.definition.changed.diff",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "Diff green",
+            "scope": "meta.diff.header.from-file, markup.inserted.diff, punctuation.definition.inserted.diff",
+            "settings": {
+                "foreground": "#b9ce8e"
+            }
+        },
+        {
+            "name": "Diff blue",
+            "scope": "meta.diff.range.context, punctuation.definition.range.diff",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "Diff purple",
+            "scope": "punctuation.definition.from-file.diff",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        // }}}
+        // {{{Git
+        {
+            "name": "Git red",
+            "scope": "entity.name.section.group-title.ini, punctuation.definition.entity.ini",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "Git blue",
+            "scope": "punctuation.separator.key-value.ini",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "Git aqua",
+            "scope": "keyword.other.definition.ini",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        // }}}
+        // {{{Makefile
+        {
+            "name": "Makefile orange",
+            "scope": "entity.name.function.target.makefile",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        {
+            "name": "Makefile blue",
+            "scope": "keyword.control.@.makefile, keyword.control.-@.makefile",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        // }}}
+        // JSON{{{
+        {
+            "name": "JSON grey",
+            "scope": "punctuation.support.type.property-name.end.json, punctuation.support.type.property-name.begin.json",
+            "settings": {
+                "foreground": "#7f8f9f"
+            }
+        },
+        {
+            "name": "JSON purple",
+            "scope": "constant.language.json",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        {
+            "name": "JSON orange",
+            "scope": "support.type.property-name.json",
+            "settings": {
+                "foreground": "#ecaf93"
+            }
+        },
+        // }}}
+        // YAML{{{
+        {
+            "name": "YAML white",
+            "scope": "punctuation.separator.key-value.mapping.yaml, string.unquoted.plain.out.yaml",
+            "settings": {
+                "foreground": "#f6e3bc"
+            }
+        },
+        {
+            "name": "YAML blue",
+            "scope": "punctuation.definition.anchor.yaml",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "YAML yellow",
+            "scope": "entity.name.tag.yaml",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "YAML purple",
+            "scope": "constant.other.timestamp.yaml, variable.other.alias.yaml",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        },
+        {
+            "name": "YAML aqua",
+            "scope": "entity.name.type.anchor.yaml",
+            "settings": {
+                "foreground": "#a2cea5"
+            }
+        },
+        // }}}
+        // TOML{{{
+        {
+            "name": "TOML red",
+            "scope": "entity.other.attribute-name.table.toml, punctuation.definition.table.toml, meta.tag.table.toml, entity.other.attribute-name.table.array.toml, punctuation.definition.table.array.toml",
+            "settings": {
+                "foreground": "#ff9094"
+            }
+        },
+        {
+            "name": "TOML blue",
+            "scope": "punctuation.definition.keyValuePair.toml",
+            "settings": {
+                "foreground": "#bdd0e5"
+            }
+        },
+        {
+            "name": "TOML yellow",
+            "scope": "keyword.key.toml",
+            "settings": {
+                "foreground": "#eccc8f"
+            }
+        },
+        {
+            "name": "TOML purple",
+            "scope": "constant.other.boolean.toml, constant.other.datetime-with-timezone.toml, constant.other.date.toml, constant.other.datetime.toml",
+            "settings": {
+                "foreground": "#e5c6f0"
+            }
+        }
+        // }}}
     ],
     // UI{{{
     "colors": {
