@@ -2,6 +2,10 @@
 
 All notable changes to the "forest-theme" extension will be documented in this file.
 
+## 0.1.3
+
+- Adjust gutter
+
 ## 0.1.2
 
 - Fix line number color
