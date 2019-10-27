@@ -72,6 +72,8 @@ This theme is a port of [vim-color-forest-night](https://github.com/sainnhe/vim-
 - **YAML:** buildin
 - **TOML:** [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
+## Planning add swift support
+
 ## Related Projects
 
 See [RELATED_PROJECTS.md](https://github.com/sainnhe/vim-color-forest-night/blob/master/RELATED_PROJECTS.md)
